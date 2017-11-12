@@ -1,0 +1,13 @@
+flask
+gunicorn
+packaging
+oauth2client
+redis
+passlib
+flask-httpauth
+sqlalchemy
+flask-sqlalchemy
+flask-script
+psycopg2
+bleach
+requests
